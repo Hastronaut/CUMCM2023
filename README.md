@@ -1,10 +1,9 @@
 # CUMCM2023
 
-This is built to store our competition result when we participated in CUMCM2023 Problem A in Sept.2023. We finally won Second Prize in Shanghai District.
+This repository stores our competition results from participating in CUMCM2023 Problem A in Sept 2023. We won the Second Prize in Shanghai.
 
-It is basically a multi-objective optimization problem, and based on a background of Heliostat Field Design.
+It is a multi-objective optimization problem based on a background in Heliostat Field Design.
 
-Contibutors:
-Yuhang Huang, Boyi Yang, Weihan Xue;
+Contributors: Yuhang Huang, Boyi Yang, Weihan Xue.
 
-(Shanghai Jiao Tong University,School of Mathemedical Sciences)
+(Shanghai Jiao Tong University, School of Mathematical Sciences)
